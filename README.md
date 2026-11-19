@@ -1,7 +1,5 @@
 # Monte Carlo Pricing and Risk Engine
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/monte-carlo-pricing-risk-engine/blob/main/monte_carlo_pricing_risk_engine.ipynb)
-
 I wanted to build Monte Carlo pricing and risk tools and be able to show that they are right, not only that they produce numbers. So every result in this project is checked against something known: option prices against Black-Scholes, Greeks against their closed-form values, put-call parity, and VaR against what actually happened in an out-of-sample test.
 
 Everything is in one notebook: [`monte_carlo_pricing_risk_engine.ipynb`](monte_carlo_pricing_risk_engine.ipynb). All outputs are saved, so you can read it on GitHub without running anything.
