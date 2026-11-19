@@ -30,7 +30,6 @@ The 95% confidence interval for the call is [40.3687, 40.6541], and the Black-Sc
 
 The convergence plot shows the error shrinking like 1/√N: 100 times more paths gives only 10 times less error.
 
-![Monte Carlo convergence to Black-Scholes](images/convergence.png)
 
 ## 2. Variance reduction
 
