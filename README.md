@@ -119,10 +119,4 @@ Open the notebook and run it from the first cell to the last. The random seed is
 
 ## How this was built
 
-I used an AI assistant (Claude) to help write and review the code and the text. I ran the notebook end to end, checked each result against theory, and edited the write-up so the numbers match the outputs.
-
-## What I would add next
-
-- Stochastic volatility (Heston) and implied volatility from real option prices.
-- Asian and barrier options.
-- A rolling-window backtest and fat-tailed distributions such as Student-t for the risk model.
+I ran the notebook end to end, checked each result against theory, and edited the write-up so the numbers match the outputs.
